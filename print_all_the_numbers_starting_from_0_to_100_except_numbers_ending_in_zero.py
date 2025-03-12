@@ -1,0 +1,1 @@
+# Prints all numbers from 0 to 100 except numbers ending in zero
