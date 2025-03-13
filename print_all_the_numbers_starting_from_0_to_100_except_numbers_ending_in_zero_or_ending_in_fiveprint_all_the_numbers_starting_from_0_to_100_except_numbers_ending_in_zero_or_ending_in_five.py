@@ -1,1 +1,0 @@
-# prints all the numbers starting from 0 to 100 except numbers ending in zero or ending in five
