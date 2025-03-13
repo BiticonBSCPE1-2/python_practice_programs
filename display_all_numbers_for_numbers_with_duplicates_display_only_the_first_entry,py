@@ -1,0 +1,14 @@
+# input 10 numbers
+numbers = []
+seen = set()
+
+for i in range(10):
+    num = int(input("Enter a number: "))
+
+# Add numbers that hasn't been seen yet
+    if num not in seen:
+        numbers.append(num)
+        seen.add(num)
+
+# Display the result
+print(numbers)
