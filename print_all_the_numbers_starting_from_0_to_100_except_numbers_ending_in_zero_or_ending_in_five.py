@@ -1,1 +1,1 @@
-# prints all the numbers starting from 0 to 100 except numbers ending in zero or ending in five
+# print_all_the_numbers_starting_from_0_to_100_except_numbers_ending_in_zero_or_ending_in_five
